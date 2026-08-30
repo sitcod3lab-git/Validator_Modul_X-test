@@ -1,0 +1,6 @@
+{
+  "name": "EmailValidator Pro",
+  "description": "7-Layer professional email validation engine with deliverability scoring, syntax validation, DNS/MX check, disposable detection, and bulk validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
